@@ -1,0 +1,24 @@
+{
+  "name": "htmlcssjs-with-firebase_integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-a-i-f-A-l-i/htmlCssJs-with-firebase_Integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-a-i-f-A-l-i/htmlCssJs-with-firebase_Integration/issues"
+  },
+  "homepage": "https://github.com/S-a-i-f-A-l-i/htmlCssJs-with-firebase_Integration#readme",
+  "type": "module",
+  "dependencies": {
+    "firebase": "^9.23.0"
+  }
+}
